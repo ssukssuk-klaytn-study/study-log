@@ -9,7 +9,7 @@
 ## 스터디 예상결과물
  Klaytn 활용한 Bapp, 스터디 자료
 
-## 스터디 일정
+## 스터디 일정 (2019.09.10 ~ 2019.10.31)
 매주 수요일 학교 근처 스터디룸(단 1주차는 추석이 있기때문에 화요일날로 당겨서함)
 - 1주차: Blockchain Basic Study ( Bitcoin, Ethereum, consensus algorithm)
 - 2주차: Inflearn Klaytn 강좌 수강(기존 블록체인 플랫폼약점, 클레이튼 이해하기), smart contract 개념
