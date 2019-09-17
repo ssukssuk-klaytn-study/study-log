@@ -11,19 +11,20 @@
 
 ## 스터디 일정 (2019.09.16 ~ 2019.10.31)
 매주 수요일 학교 근처 스터디룸(단 1주차는 추석이 있기때문에 화요일날로 당겨서함)
-- 1주차: Blockchain Basic Study ( Bitcoin, Ethereum, consensus algorithm)
-- 2주차: Inflearn Klaytn 강좌 수강(기존 블록체인 플랫폼약점, 클레이튼 이해하기), smart contract 개념
-- 3주차: Inflearn Klaytn 강좌 수강 (덧셈게임 with klaytn tools), solidity study
-- 4주차: Inflearn Klaytn 강좌 수강 (덧셈게임 프론트엔드)
+- 1주차: 인프런 강좌 수강(섹션 0,1,2), 블록체인 기초공부 (비트코인, 이더리움 특징 및 합의 알고리즘)
+- 2주차: Inflearn Klaytn 강좌 수강(섹션 3), 스마트 컨트랙트 개념 공부, 솔리디티 문법공부
+- 3주차: Inflearn Klaytn 강좌 수강 (섹션 4), 솔리디티 문법공부, helloworld 컨트랙트작성 및 배포
+- 4주차: Inflearn Klaytn 강좌 수강 (섹션 5), 덧셈게임 스마트계약 및 웹페이지 개발 따라해보기
 - 5주차: 중간고사
 - 6주차: 중간고사 
-- 7주차: Klaytn Bapp 개발 아이디어 구체화 및 smart contract 작성
-- 8주차: smart contract 작성 및 테스트
-- 9주차: smart contract 작성 및 테스트 및 caver.js 를 이용한 프론트 엔드 개발
-- 10주차: 프론트 앤드 개발 및 마무리
+- 7주차: 컨트랙트 작성(펀딩할 프로젝트 등록하기, 펀딩할 프로젝트 모금받기 함수작성)
+- 8주차: 컨트랙트 작성(펀딩할 프로젝트 모금완료시 토큰 배포, 프로젝트 수익 발생시 수익 분배 함수작성) 및 테스트
+- 9주차: 컨트랙트 배포 및 계정로그인, 프로젝트 모금, 프로젝트 판매 페이지 개발)
+- 10주차: 프론트 앤드 개발 마무리 및 테스트
 
 ## 스터디 블로깅
  [https://github.com/ssukssuk-klaytn-study/study-log](https://github.com/ssukssuk-klaytn-study/study-log)
+ 
 ## Bapp 결과물
 Bapp 결과물은 [https://github.com/ssukssuk-klaytn-study](https://github.com/ssukssuk-klaytn-study/study-log) 내에 올라올 예정
 
