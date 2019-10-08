@@ -1,7 +1,7 @@
 # Klaytn 스터디
 
 ## 스터디 참여인원
- [김민섭](https://github.com/devsuub), [김건희](https://github.com/GeonHuiKim), [최준명](https://github.com/pizard), [임재현](https://github.com/violet9503), [한윤](https://github.com/YoonHan), [임재민](https://github.com/jjangjamin)
+ [김민섭](https://github.com/devsuub), [김건희](https://github.com/GeonHuiKim), [최준명](https://github.com/pizard), [임재현](https://github.com/violet9503), [한윤](https://github.com/YoonHan), [임재민](https://github.com/jjangjamin), [최규현](https://github.com/cloudgray)
 
 ## 스터디목표
  블록체인 개념이해,  Klaytn 활용해 Bapp 개발
